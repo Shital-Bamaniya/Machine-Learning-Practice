@@ -1,4 +1,4 @@
-<h1>Quiz-1</h1>
+Quiz-1
 
 
 5 Core step of Machine learning workflow
@@ -11,16 +11,16 @@
 
 
 
-When the curious child learned that "red and bright means pain" he learned a pattern. <br>This is because the child recognized a recurring association between the color and brightness of an object and the sensation of pain.
+When the curious child learned that "red and bright means pain" he learned a pattern. This is because the child recognized a recurring association between the color and brightness of an object and the sensation of pain.
 So answer is A pattern   
 
 
 Training Data:
-The experiences where the child encountered red and bright objects and felt pain.<br> For example, touching a hot stove or a burning candle. These experiences help the child learn the association between the visual characteristics (red and bright) and the outcome (pain).
+The experiences where the child encountered red and bright objects and felt pain. For example, touching a hot stove or a burning candle. These experiences help the child learn the association between the visual characteristics (red and bright) and the outcome (pain).
 
 
 Test Data:
-New instances where the child encounters red and bright objects and uses the learned pattern to predict pain.<br> For example, seeing a red-hot iron for the first time and deciding not to touch it based on past experiences.
+New instances where the child encounters red and bright objects and uses the learned pattern to predict pain. For example, seeing a red-hot iron for the first time and deciding not to touch it based on past experiences.
 
 
 
@@ -28,7 +28,7 @@ New instances where the child encounters red and bright objects and uses the lea
 
 
 Human guidance
-Human guidance is very much important element in machine learning we can train our model in right or wrong manner <br>if human guidance is in wrong direction then machine model learn wrong and if human direction is in right direction then machine gives us right . Human choses the right algorithm for model  and also check 
+Human guidance is very much important element in machine learning we can train our model in right or wrong manner if human guidance is in wrong direction then machine model learn wrong and if human direction is in right direction then machine gives us right . Human choses the right algorithm for model  and also check 
 
 
 Clean , relevant data
