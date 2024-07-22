@@ -1,0 +1,45 @@
+<h1>Quiz-1</h1>
+
+
+5 Core step of Machine learning workflow
+
+1.Exploratory Analysis
+2.Data Cleaning
+3.Feature Engineering
+4.Algorithm Selection
+5.Model Training
+
+
+
+When the curious child learned that "red and bright means pain" he learned a pattern. <br>This is because the child recognized a recurring association between the color and brightness of an object and the sensation of pain.
+So answer is A pattern   
+
+
+Training Data:
+The experiences where the child encountered red and bright objects and felt pain.<br> For example, touching a hot stove or a burning candle. These experiences help the child learn the association between the visual characteristics (red and bright) and the outcome (pain).
+
+
+Test Data:
+New instances where the child encounters red and bright objects and uses the learned pattern to predict pain.<br> For example, seeing a red-hot iron for the first time and deciding not to touch it based on past experiences.
+
+
+
+3 Essential Machine Learning Element
+
+
+Human guidance
+Human guidance is very much important element in machine learning we can train our model in right or wrong manner <br>if human guidance is in wrong direction then machine model learn wrong and if human direction is in right direction then machine gives us right . Human choses the right algorithm for model  and also check 
+
+
+Clean , relevant data
+
+Qulity of data is the most import for model if the data is relevant and accurate then model gives us accurate or right output form model. 
+Remove unwanted data :
+In a machine learning unwanted data is troubling for model 
+
+
+Overfitting
+
+When the machine learning model gives accurate prediction for training data but not for new data .solve with chose the right algorith and turning them correctly.
+For example :identify the person is male or female
+The train data is identify by the person hair only if the person’s hair is short then male otherwise female but when new data that a female has a short hair then model <br>identify that male so in this scenario the model is overfitted. 
