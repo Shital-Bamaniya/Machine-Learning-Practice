@@ -1,0 +1,12 @@
+1.Scrapy <br>
+
+
+Scrapy is not just a library or package in python. It is a framework for web scraping and crwalling the website.
+<br>
+
+For that first install scrapy<br>
+pip install Scrapy 
+<br><br>
+then create project<br>
+scrapy startproject <projectname> <br>
+ex:scrapy startproject booksdata
