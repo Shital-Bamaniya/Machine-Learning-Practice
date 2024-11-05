@@ -10,3 +10,12 @@ pip install Scrapy
 then create project<br>
 scrapy startproject <projectname> <br>
 ex:scrapy startproject booksdata
+
+<br>
+
+Reference:<br>
+https://www.kdnuggets.com/10-essential-python-libraries-for-data-science-in-2024
+<br>
+https://www.youtube.com/watch?v=GogxAQ2JP4A
+<br>
+and also help from chatgpt
